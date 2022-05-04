@@ -1,3 +1,11 @@
+# ignore ipynb test file
+Wine_Quality_ML.ipynb
+
+# ignore csv files
+Resources/winequality-red.csv
+Resources/winequality-white.csv
+Resources/winequality.names
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
