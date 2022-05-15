@@ -2,7 +2,7 @@
 
 ## Objective
 
-This project uses supervised machine learning models to predict the quality of red and white wines.  I used the following models: Multiple Linear Regression, Decision Tree, and Random Forest.  My goal is to assess which model is best used to predict wine quality.
+This project uses supervised machine learning models to predict the quality of red and white wines.  I used the following models: Multiple Linear Regression, Decision Tree, and Random Forest.  My goal was to assess which model is best used to predict wine quality and also if the models' accuracy differs between red and white wine.
 
 - Multiple Linear Regression: Tries to predict a dependent variable based on multiple independent variables.
 
