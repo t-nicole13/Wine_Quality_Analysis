@@ -18,13 +18,13 @@ This project uses supervised machine learning models to predict the quality of r
 4. Split training and testing data.
 5. Instantiate the machine learning model.
 6. Evaluate the model performance based on classification scores.
-7. Calculate the classification accuracy score.
+7. Calculate the classification accuracy score or R2 Score.
 
 ## Resources
 
 ### Tools/Languages
-- jupyter notebook
-- visual studio code
+- jupyter notebook 6.4.5
+- visual studio code 1.67.0
 - python
 - sci-kit learn
 
