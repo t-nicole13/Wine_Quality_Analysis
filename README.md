@@ -62,7 +62,7 @@ This project used supervised machine learning models to predict the quality of r
 
 
 ## Summary
-- The Multiple Linear Regression model for both red and white wines was had the lowest accuracy amongst the 3 learning models.  
+- The Multiple Linear Regression model for both red and white wines had the lowest accuracy amongst the 3 learning models.  
 
 - The Random Forest model for both the red and white wines had the highest accuracy amongst the 3 models.
 
