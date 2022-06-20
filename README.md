@@ -27,6 +27,7 @@ This project used supervised machine learning models to predict the quality of r
 - visual studio code 1.67.0
 - python
 - sci-kit learn
+- pandas
 
 ### Sources
 - https://archive.ics.uci.edu/ml/datasets/Wine+Quality
